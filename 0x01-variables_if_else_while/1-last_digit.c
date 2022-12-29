@@ -1,10 +1,14 @@
-include <stdlib.h>
+#include <stdlib.h>
+#include <stdio.h>
 
 #include <time.h>
 
 /* more headers goes there */
 
-
+/**
+ * main - Computes the last digit of a random number,
+ * Return: 0 always
+ */
 
 /* betty style doc for function main goes there */
 
