@@ -16,16 +16,16 @@ int main(void)
 
 {
 
-		int n;
+	int n;
 
-                int result = (n % 10);
+        int result;
 
-			srand(time(0));
+	srand(time(0));
 
-				n = rand() - RAND_MAX / 2;
+	n = rand() - RAND_MAX / 2;
 
-					/* your code goes there */
-
+		/* your code goes there */
+	result = n % 10;
 
 	if (result > 5)
 	{
