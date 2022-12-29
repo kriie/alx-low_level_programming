@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main prints a sentence
- * return: 0 if excited properly, non-zero otherwise
+ * main prints the phrase with proper grammar,
+ * but the outcome is a piece of art,
+ * Return: 0 if excited properly, non-zero otherwise
  */
 
 int main(void)
