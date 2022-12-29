@@ -11,6 +11,7 @@ int main(void)
 	char alphabet;
 	char lowerCase;
 	lowerCase = tolower(alphabet);
-	putchar(lowerCase\n);
+	putchar(lowerCase);
+	putchar("\n");
 	return (0);
 }
