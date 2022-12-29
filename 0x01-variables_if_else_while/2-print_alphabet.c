@@ -1,17 +1,45 @@
+/*
+ *
+ *  * File: 2-print_alphabet.c
+ *
+ *   * Auth: Brennan D Baraban
+ *
+ *    */
+
+
+
 #include <stdio.h>
-#include <ctype.h>
+
+
 
 /**
- * main - computes into lowercase
- * Return: 0
- */
+ *
+ *  * main - Prints the alphabet in lowercase.
+ *
+ *   *
+ *
+ *    * Return: Always 0.
+ *
+ *     */
 
 int main(void)
+
 {
-	char alphabet;
-	char lowerCase;
-	lowerCase = tolower(alphabet);
-	putchar(lowerCase);
-	putchar("\n");
-	return (0);
+
+		char letter;
+
+
+
+			for (letter = 'a'; letter <= 'z'; letter++)
+
+						putchar(letter);
+
+
+
+				putchar('\n');
+
+
+
+					return (0);
+
 }
