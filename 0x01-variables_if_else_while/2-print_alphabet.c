@@ -10,7 +10,7 @@ int main(void)
 {
 	char alphabet;
 	char lowerCase;
-	lowerCase = toLower(alphabet);
-	putchar(lowerCase);
+	lowerCase = tolower(alphabet);
+	putchar(lowerCase\n);
 	return (0);
 }
