@@ -1,10 +1,14 @@
 #include <stdlib.h>
+#include <stdio.h>
 
 #include <time.h>
 
 /* more headers goes there */
 
-
+/**
+ * main - compute a program with conditional statements,
+ * Return: 0
+ */
 
 /* betty style doc for function main goes there */
 
