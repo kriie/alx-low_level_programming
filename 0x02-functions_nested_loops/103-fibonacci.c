@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - prints fibonacci with a condition,
+ * main -Prints the sum of even-valued Fibonacci sequence terms not exceeding. 
  * Return: 0 always
  */
 
