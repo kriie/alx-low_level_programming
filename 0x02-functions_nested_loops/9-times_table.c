@@ -4,12 +4,11 @@
  * time_table - prints the complete multiplication table,
  */
 
-
 void times_table(void)
 {
 	int num, multiply, result;
 
-	for (num = 0; num <= 9; num++);
+	for (num = 0; num <= 9; num++)
 	{
 		_putchar('0');
 
